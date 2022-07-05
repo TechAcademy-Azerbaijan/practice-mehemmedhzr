@@ -1,5 +1,4 @@
-const prompt = require('prompt');
-prompt.start();
+
 
 
 prompt.get('input', function (err, result) {
@@ -26,4 +25,3 @@ for(let i = n[0]; i <= b; i++){
 console.log(res);
 })
   
-});
