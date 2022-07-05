@@ -1,8 +1,3 @@
-
-
-
-prompt.get('input', function (err, result) {
-  
 const prompt = require('prompt');
 prompt.start();
 
@@ -24,4 +19,3 @@ for(let i = n[0]; i <= b; i++){
 }
 console.log(res);
 })
-  
